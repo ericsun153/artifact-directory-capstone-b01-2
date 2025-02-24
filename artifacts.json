@@ -1,6 +1,6 @@
 {
-    "this-repository": "https://github.com/DSC-Capstone/artifact-directory-template.git",
-    "project-repository": "https://github.com/DSC-Capstone/project-templates.git",
-    "project-website-url": "https://afraenkel.github.io/capstone-malware-domain/",
-    "project-website-code": "https://github.com/afraenkel/capstone-malware-domain.git"
+    "this-repository": "https://github.com/ericsun153/artifact-directory-capstone-b01-2.git",
+    "project-repository": "https://github.com/ericsun153/Veracity-Machine-and-Mitigation-Strategies.git",
+    "project-website-url": "https://eskimosun.github.io/Capstone-2025-GenAI-For-Good-Website/",
+    "project-website-code": "https://github.com/EskimoSun/Capstone-2025-GenAI-For-Good-Website.git"
 }
